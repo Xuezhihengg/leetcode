@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.graph;
+package org.algorithm.hot_100.first_time.graph;
 
 //题目: 200.岛屿数量
 

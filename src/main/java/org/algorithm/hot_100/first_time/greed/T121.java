@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.greed;
+package org.algorithm.hot_100.first_time.greed;
 
 //题目: 121. 买卖股票的最佳时机
 //思路: 使用动态规划解而不是贪心，考虑前i天的价格变化能得到的最大利润即为dp[i]，则递推公式为：

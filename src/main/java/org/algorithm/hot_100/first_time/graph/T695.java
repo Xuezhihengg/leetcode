@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.graph;
+package org.algorithm.hot_100.first_time.graph;
 
 //题目: 695. 岛屿的最大面积
 //思路: 网格背景下的dfs，需要理解基本情况以及注意避免重复搜索，这里的dfs返回值并不好解释，更多是一种网格搜索的效果

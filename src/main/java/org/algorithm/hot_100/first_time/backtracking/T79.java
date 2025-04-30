@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.backtracking;
+package org.algorithm.hot_100.first_time.backtracking;
 
 //题目: 79.单词搜索
 //思路: 网格深度优先搜索

@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.matrix;
+package org.algorithm.hot_100.first_time.matrix;
 
 //题目: 73.矩阵置零
 //思路: 最笨的方法就是使用两个数组分别记录含0的行和含0的列，然后把它们都置为0，这需要遍历两遍矩阵O(mn)，空间复杂度为O(m+n)

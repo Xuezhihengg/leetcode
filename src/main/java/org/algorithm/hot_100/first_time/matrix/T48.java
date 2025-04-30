@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.matrix;
+package org.algorithm.hot_100.first_time.matrix;
 
 //题目: 48.旋转图像
 //思路: 算是二刷吧，四个一组进行旋转就可以在原地进行，这个思路是被记住了，有思路实现起来并不复杂

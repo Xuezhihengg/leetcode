@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.double_pointer;
+package org.algorithm.hot_100.first_time.double_pointer;
 
 //题目: 11.盛最多水的容器
 //思路: 每次让高度较小的指针向中央走，直到遇到比它高的柱子，现在高度增加但是宽度减小，更新max。本题就很符合双指针框架性，

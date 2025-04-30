@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.greed;
+package org.algorithm.hot_100.first_time.greed;
 
 //题目: 45.跳跃游戏II
 //思路: 在T55的基础上实现，通过end记录当前这一步能跳到的最远距离，如果到达这一位置，意味着必须跳下一步了。本题的大问题

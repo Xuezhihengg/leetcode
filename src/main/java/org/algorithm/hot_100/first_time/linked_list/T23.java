@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.linked_list;
+package org.algorithm.hot_100.first_time.linked_list;
 
 //题目: 23.合并K个升序链表
 //思路: 根据T21实现的'合并两个有序链表'，现在只需要两两合并即可，但是这样的时间复杂度是O(nk)

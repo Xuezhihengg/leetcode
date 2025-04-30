@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.binary_search;
+package org.algorithm.hot_100.first_time.binary_search;
 
 //题目: 35.搜索插入位置
 //思路: 这里居然不是使用递归实现的，不论哪种方法，这里的边界条件都是不太好处理的，最好作为代码框架记忆

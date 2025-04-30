@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.matrix;
+package org.algorithm.hot_100.first_time.matrix;
 
 //题目: 240.搜索二维矩阵2
 //思路: 模拟二叉树，利用从左向右递增，从上向下递增的特性

@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.graph;
+package org.algorithm.hot_100.first_time.graph;
 
 //题目: 208. 实现 Trie（前缀树）
 //思路: Trie树是一颗多叉树，每个节点有26个子节点

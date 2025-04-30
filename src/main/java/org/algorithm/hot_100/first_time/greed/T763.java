@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.greed;
+package org.algorithm.hot_100.first_time.greed;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.binary_tree;
+package org.algorithm.hot_100.first_time.binary_tree;
 
 //题目: 114.二叉树展开为链表
 //思路: 递归

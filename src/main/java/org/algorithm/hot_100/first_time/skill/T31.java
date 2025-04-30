@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.skill;
+package org.algorithm.hot_100.first_time.skill;
 
 //题目: 31. 下一个排列
 //思路: 1）由于按字典排序，「下一个排列」一定比当前排列的数值大，为了使数值增大，需要将一个左边的较小数与右边的较大数进行交换

@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.dynamic_planning;
+package org.algorithm.hot_100.first_time.dynamic_planning;
 
 //题目: 416.分割等和子集
 //思路: 转换为0-1背包问题

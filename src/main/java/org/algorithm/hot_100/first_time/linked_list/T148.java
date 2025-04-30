@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.linked_list;
+package org.algorithm.hot_100.first_time.linked_list;
 
 //题目: 148. 排序链表
 //思路: 递归归并排序，时间复杂度O(nlogn)，空间复杂度O(logn)

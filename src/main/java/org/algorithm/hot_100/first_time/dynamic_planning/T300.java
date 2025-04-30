@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.dynamic_planning;
+package org.algorithm.hot_100.first_time.dynamic_planning;
 
 //题目: 300.最长递增子序列
 //思路: 本题的关键在于确定dp数组的含义以及确定递推公式，dp[i]并不表示「考虑nums中前i个元素的最长严格递增子序列的长度」，

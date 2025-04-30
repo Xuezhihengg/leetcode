@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.binary_search;
+package org.algorithm.hot_100.first_time.binary_search;
 
 //题目: 33.搜索旋转排序数组
 //思路: 每次选定mid后，一定有一边是有序的而另一边是无序的（不把mid排除在外），如果在有序的一边，target还在其范围内，就

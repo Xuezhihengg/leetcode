@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.skill;
+package org.algorithm.hot_100.first_time.skill;
 
 //题目: 75.颜色分类
 //思路: 遍历一遍数组，如果是0则与第一个元素交换位置并固定（不参与后续交换），如果是1则原地不动，如果是2则与最后一个元素

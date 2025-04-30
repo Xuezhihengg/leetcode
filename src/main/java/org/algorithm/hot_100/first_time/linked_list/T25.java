@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.linked_list;
+package org.algorithm.hot_100.first_time.linked_list;
 
 //题目: 25.K个一组翻转链表
 //思路: 还是引入哑节点，然后考虑清楚每个循环做什么事情，指针变更步骤是怎样的

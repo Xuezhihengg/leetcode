@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.binary_tree;
+package org.algorithm.hot_100.first_time.binary_tree;
 
 //题目: 543.二叉树的直径
 //题解: https://leetcode.cn/problems/diameter-of-binary-tree/solutions/141445/liang-chong-si-lu-shi-yong-quan-ju-bian-liang-yu-b/?envType=study-plan-v2&envId=top-100-liked

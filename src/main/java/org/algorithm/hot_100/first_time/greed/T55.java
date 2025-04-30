@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.greed;
+package org.algorithm.hot_100.first_time.greed;
 
 //题目: 55.跳跃游戏
 //思路: 使用farthest记录考虑到当前格子能跳到到最远距离，farthest = max{ farthest , i + nums[i] }，最后

@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.dynamic_planning;
+package org.algorithm.hot_100.first_time.dynamic_planning;
 
 //题目: 1143.最长公共子序列
 //思路: dp[i][j] 表示text1前i个字符 [0,i] 和text2前j个字符 [0,j] 的最长公共子序列长度

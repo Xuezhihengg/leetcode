@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.binary_search;
+package org.algorithm.hot_100.first_time.binary_search;
 
 //题目: 4.寻找两个正序数组的中位数
 //思路: 这道题的本质就是给两个有序数组，找到全局的第k小的数字的下标，这个问题通过归并排序在O(m+n)时间复杂度下可以解决，

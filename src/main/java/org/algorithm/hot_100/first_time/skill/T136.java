@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.skill;
+package org.algorithm.hot_100.first_time.skill;
 
 //题目: 136.只出现一次的数字
 //思路: 通过异或运算可在O(n)时间复杂度和线性空间复杂度内得到只出现一次的数字，这是异或运算的性质的体现

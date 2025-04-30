@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.dynamic_planning;
+package org.algorithm.hot_100.first_time.dynamic_planning;
 
 //题目: 72.编辑距离
 //思路: dp[i][j] 表示将word1前i个字符 [0,i] 转化为word2前j个字符 [0,j] 需要的最少操作数

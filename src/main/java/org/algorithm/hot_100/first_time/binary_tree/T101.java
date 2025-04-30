@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.binary_tree;
+package org.algorithm.hot_100.first_time.binary_tree;
 
 //题目: 101.对称二叉树
 //思路: 先实现一个辅助函数，判断两个二叉树是否对称，这可以通过递归实现

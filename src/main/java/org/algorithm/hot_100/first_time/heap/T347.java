@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.heap;
+package org.algorithm.hot_100.first_time.heap;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,291 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{}</component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f2aeac3-9112-4d5b-8ecc-4d4234d989f6" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2w11uhXfqRVBcac5LN1rXFQpKOf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.HW1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T1.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T101.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T102.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T105.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T108.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T11.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T114.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T1143.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T118.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T121.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T124.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T128.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T131.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T136.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T138.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T139.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T146.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T148.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T15.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T152.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T153.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T155.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T169.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T17.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T189.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T19.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T198.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T199.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T2.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T200.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T206.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T207.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T208.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T21.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T215.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T22.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T23.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T234.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T236.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T238.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T239.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T24.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T240.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T25.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T279.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T283.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T287.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T295.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T3.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T300.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T31.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T32.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T322.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T33.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T34.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T347.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T35.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T39.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T394.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T4.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T41.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T416.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T42.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T437.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T438.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T45.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T46.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T463.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T48.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T49.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T5.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T51.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T53.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T54.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T55.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T56.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T560.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T62.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T64.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T70.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T72.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T73.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T739.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T74.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T75.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T76.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T763.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T78.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T79.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T827.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T84.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T901.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T94.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T98.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.T994.executor&quot;: &quot;Debug&quot;
+  }
+}</component>
+  <component name="RunManager" selected="应用程序.org.algorithm.hot_100.first_time.binary_search.T4">
+    <configuration name="T240" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algorithm.hot_100.matrix.T240" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algorithm.hot_100.matrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algorithm.hot_100.binary_search.T4" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algorithm.hot_100.binary_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T94" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algorithm.hot_100.binary_tree.T94" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algorithm.hot_100.binary_tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.algorithm.hot_100.first_time.binary_search.T4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.algorithm.hot_100.first_time.binary_search.T4" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algorithm.hot_100.first_time.binary_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.org.algorithm.hot_100.first_time.binary_search.T4" />
+        <item itemvalue="应用程序.T4" />
+        <item itemvalue="应用程序.T94" />
+        <item itemvalue="应用程序.T240" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="2f2aeac3-9112-4d5b-8ecc-4d4234d989f6" name="更改" comment="" />
+      <created>1745194492184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745194492184</updated>
+      <workItem from="1745194493130" duration="232469000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/algorithm/hot_100/first_time/matrix/T240.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/algorithm/hot_100/first_time/linked_list/T146.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/algorithm/hot_100/first_time/binary_tree/T105.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/algorithm/hot_100/first_time/dynamic_planning/T322.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/algorithm/hot_100/first_time/skill/T75.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/algorithm/hot_100/first_time/hash/T128.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/algorithm/hot_100/first_time/array/T189.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.algorithm.hot_100.T206$ListNode" memberName="val" />
+        <PinnedItemInfo parentTag="org.algorithm.hot_100.linked_list.T21$ListNode" memberName="next" />
+        <PinnedItemInfo parentTag="org.algorithm.hot_100.linked_list.T21$ListNode" memberName="val" />
+        <PinnedItemInfo parentTag="org.algorithm.hot_100.stack.T901$StockSpanner" memberName="stack" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
 </project>

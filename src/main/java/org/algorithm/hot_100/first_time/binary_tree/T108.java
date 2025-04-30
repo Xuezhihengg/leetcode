@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.binary_tree;
+package org.algorithm.hot_100.first_time.binary_tree;
 
 //题目: 108.将有序数组转换为二叉搜索树
 //思路: 递归实现，每次把数组从中间拆成两部分

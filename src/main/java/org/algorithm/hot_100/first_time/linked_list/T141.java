@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.linked_list;
+package org.algorithm.hot_100.first_time.linked_list;
 
 //题目: 141. 环形链表
 //思路: 如果快慢指针相遇说明有环

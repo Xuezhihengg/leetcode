@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.binary_search;
+package org.algorithm.hot_100.first_time.binary_search;
 
 //题目: 34.在排序数组中查找元素的第一个和最后一个位置
 //思路: 基于二分查找法框架实现找到元素最左端位置下标（如果元素出现多次）和元素最右端位置下标（如果元素出现多次）的方法，

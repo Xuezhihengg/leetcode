@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.hash;
+package org.algorithm.hot_100.first_time.hash;
 
 import java.util.HashSet;
 import java.util.Set;

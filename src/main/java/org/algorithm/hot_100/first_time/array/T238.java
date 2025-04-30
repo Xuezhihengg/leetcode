@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.array;
+package org.algorithm.hot_100.first_time.array;
 
 //题目: 238. 除自身以外数组的乘积
 //思路: 类似前缀和的方法，leftProduct[i]表示nums中前i个元素的乘积，rightProduct[i]同理，第i个元素的除自身以外数组的乘积

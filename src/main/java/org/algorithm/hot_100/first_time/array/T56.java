@@ -1,6 +1,9 @@
-package org.xjtu_learner.hot_100.first_time.array;
+package org.algorithm.hot_100.first_time.array;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
 
 //题目: 56.合并区间
 //思路: 两个两个得进行合并

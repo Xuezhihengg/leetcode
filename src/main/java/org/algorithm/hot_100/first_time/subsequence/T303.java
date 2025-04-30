@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.subsequence;
+package org.algorithm.hot_100.first_time.subsequence;
 
 //题目: 303. 区域和检索 - 数组不可变
 //思路: 由于数组是不变的，因此任意区间和从一开始就是固定的，所以可以在初始化NumArray时确定前缀和，

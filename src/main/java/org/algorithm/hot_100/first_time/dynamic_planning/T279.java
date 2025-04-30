@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.dynamic_planning;
+package org.algorithm.hot_100.first_time.dynamic_planning;
 
 //题目: 279.完全平方数
 

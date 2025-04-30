@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.linked_list;
+package org.algorithm.hot_100.first_time.linked_list;
 
 //题目: 24.两两交换链表中的节点
 //思路: 哑节点下的指针变更操作，这类问题带入哑节点都会好做很多

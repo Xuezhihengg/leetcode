@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.subsequence;
+package org.algorithm.hot_100.first_time.subsequence;
 
 import java.util.HashMap;
 import java.util.Map;

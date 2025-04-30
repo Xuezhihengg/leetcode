@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.skill;
+package org.algorithm.hot_100.first_time.skill;
 
 //题目: 287.寻找重复数
 //思路: 本题思路是否巧妙，在题目的限制下（1 <= nums[i] <= n，nums中只有一个整数出现两次或多次，其余整数均只出现一次）

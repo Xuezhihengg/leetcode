@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.linked_list;
+package org.algorithm.hot_100.first_time.linked_list;
 
 //题目: 206.反转链表
 //思路: 遍历链表，并在访问各节点时修改 next 引用指向

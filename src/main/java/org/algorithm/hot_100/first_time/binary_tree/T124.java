@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.binary_tree;
+package org.algorithm.hot_100.first_time.binary_tree;
 
 //题目: 124.二叉树中的最大路径和
 //思路: 关键在于想清楚这里的递归函数，这个递归函数的返回值是当前树能提供的最大路径（从根节点出发），这个返回值主要是为了服务全局变量result的变更，

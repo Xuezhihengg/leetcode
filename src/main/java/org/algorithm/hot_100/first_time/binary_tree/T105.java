@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.binary_tree;
+package org.algorithm.hot_100.first_time.binary_tree;
 
 //题目: 105.从前序与中序遍历序列构造二叉树
 //思路: 先序数组的第一个元素一定为根节点，依据根节点在中序数组分出左子树与右子树，然后递归解决

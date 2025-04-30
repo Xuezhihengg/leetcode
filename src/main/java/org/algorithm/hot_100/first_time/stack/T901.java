@@ -1,6 +1,9 @@
-package org.xjtu_learner.hot_100.first_time.stack;
+package org.algorithm.hot_100.first_time.stack;
 
-import java.util.*;
+import java.util.ArrayDeque;
+import java.util.ArrayList;
+import java.util.Deque;
+import java.util.List;
 
 //题目: 901.股票价格跨度
 //思路: 单调递减栈，每个元素在入栈的时候就可以知道它左边第一个大于它的元素位置，作差即可算出跨度

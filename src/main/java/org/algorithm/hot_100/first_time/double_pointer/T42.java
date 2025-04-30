@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.double_pointer;
+package org.algorithm.hot_100.first_time.double_pointer;
 
 //题目: 42.接雨水
 //思路: 正向遍历找左低右高的凹槽的积水量，逆向遍历找左高右低的凹槽的积水量。正向遍历时：左右指针都从最左边出发，

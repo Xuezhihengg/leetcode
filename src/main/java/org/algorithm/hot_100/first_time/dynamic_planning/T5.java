@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.dynamic_planning;
+package org.algorithm.hot_100.first_time.dynamic_planning;
 
 //题目: 5.最长回文子串
 //思路: dp[i][j] 表示s的[i,j]字串是否为回文,

@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.skill;
+package org.algorithm.hot_100.first_time.skill;
 
 //题目: 169. 多数元素
 //思路: 摩尔投票法，其实本质上就是一直去做配对抵消（假设众数cur，与cur相同votes++，不同则votes--），当votes==0说明

@@ -1,4 +1,4 @@
-package org.xjtu_learner.hot_100.first_time.stack;
+package org.algorithm.hot_100.first_time.stack;
 
 import java.util.Objects;
 import java.util.Stack;
